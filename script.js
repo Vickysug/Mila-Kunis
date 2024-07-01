@@ -1163,8 +1163,8 @@ createSpaceship() {
 }
 
             preload() {
-                this.load.image('asteroid', 'https://play.rosebud.ai/assets/spikey red ball.png?OSSI');
-                this.load.image('power-up', 'https://play.rosebud.ai/assets/award3.png?XUO7');
+                this.load.image('asteroid', 'https://play.rosebud.ai/assets/enemy1.png?e1vD');
+                this.load.image('power-up', 'https://play.rosebud.ai/assets/award4.png?PeN7');
                 this.load.image('slowdown-power-up', 'https://play.rosebud.ai/assets/spikes.png?PtGJ');
                 this.load.image('spaceship', 'https://play.rosebud.ai/assets/54e593a8-7f75-48dc-a19a-feb20e9e384e.png?foTt');
                 this.load.image('gold-tile', 'https://play.rosebud.ai/assets/gold_tile_32.png?RmBs');
